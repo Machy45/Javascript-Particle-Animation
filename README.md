@@ -1,2 +1,2 @@
-# Javascript-Mouse-Trail
+# Javascript-Particle-Animation
 gave up commenting half way
