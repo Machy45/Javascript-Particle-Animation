@@ -1,2 +1,2 @@
-# Javascript-Mouse-Trial
+# Javascript-Mouse-Trail
 gave up commenting half way
